@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./thumbnail.png">
+  Live example: <a href="https://company-email-signature-generator.vercel.app/">company-email-signature-generator.vercel.app</a>
 </p>
 <p align="center">
-  Live example: <a href="https://company-email-signature-generator.vercel.app/">company-email-signature-generator.vercel.app</a>
+  <img src="./thumbnail.png">
 </p>
 
 An email signature generator designed to be configured for use within companies to help keep signatures consistent. Comes with 2 clean and simple layouts.
